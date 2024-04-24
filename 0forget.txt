@@ -15,4 +15,6 @@
 8. sticky and z-index => 8position.html
 9. background-repeat: no-repeat; => use this for no repitition on x and y axes
 10. for background-image: cover to properly work, use high quality images.
-11. 
+11. when designing css grids - prepare sketch + add grid props to individual divs one by one and refresh UI after
+    every change. Not every div needs grid-row AND grid-colun both.
+12. Grid area constraint - individual areas should form a rectangle
